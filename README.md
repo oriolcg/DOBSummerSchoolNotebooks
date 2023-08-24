@@ -3,4 +3,4 @@ In this repository you will find the material for the **Numerical Analysis of Of
 
 To execute the jupyter notebooks, press the following icon:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oriolcg/DOBSummerSchoolNotebooks/main?labpath=1_Introduction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oriolcg/DOBSummerSchoolNotebooks/main?labpath=2022/1_Introduction.ipynb)
