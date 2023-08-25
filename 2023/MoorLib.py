@@ -39,7 +39,7 @@ def catenary_end_xz(W_pm, L_tot, EA, V0, H0, L_susp):
         
     return x, z
 
-#----- End Functions -----
+#----- End Functions ----- 
 
 
 #----- Start moorSeg -----
